@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/derekrush/appdev/pc/Pc.X12/Pc.X12.Framework/Pc.X12.Framework.csproj",
+      "projectUniqueName": "/Users/derekrush/Projects/derekrush/X12.git/Pc.X12/Pc.X12.Framework/Pc.X12.Framework.csproj",
       "projectName": "Pc.X12.Framework",
-      "projectPath": "/Users/derekrush/appdev/pc/Pc.X12/Pc.X12.Framework/Pc.X12.Framework.csproj",
+      "projectPath": "/Users/derekrush/Projects/derekrush/X12.git/Pc.X12/Pc.X12.Framework/Pc.X12.Framework.csproj",
       "packagesPath": "/Users/derekrush/.nuget/packages/",
-      "outputPath": "/Users/derekrush/appdev/pc/Pc.X12/Pc.X12.Framework/obj",
+      "outputPath": "/Users/derekrush/Projects/derekrush/X12.git/Pc.X12/Pc.X12.Framework/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

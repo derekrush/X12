@@ -1,7 +1,7 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pc.X12.Framework/Domain/X12DataElement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pc.X12 Status">
     <Files>
-      <File FileName="Pc.X12.Framework/Domain/IX12DocumentSpec.cs" Line="8" Column="6" />
+      <File FileName="Pc.X12.Framework/Domain/IX12DocumentSpec.cs" Line="6" Column="28" />
       <File FileName="Pc.X12.Framework/Domain/IX12TransactionSetSpec.cs" Line="4" Column="62" />
       <File FileName="Pc.X12.Framework/Domain/IX12InterchangeEnvelopeSpec.cs" Line="2" Column="1" />
       <File FileName="Pc.X12.Framework/Domain/X12DocumentSpec.cs" Line="8" Column="17" />
@@ -24,7 +24,7 @@
       <File FileName="Pc.X12.Framework/Domain/IX12FunctionalGroup.cs" Line="6" Column="41" />
       <File FileName="Pc.X12.Framework/Services/X12TransactionSetParser.cs" Line="22" Column="50" />
       <File FileName="Pc.X12.Framework/Exceptions/SegmentEnvelopeException.cs" Line="10" Column="104" />
-      <File FileName="Pc.X12.Framework/Domain/X12DataElement.cs" Line="6" Column="31" />
+      <File FileName="Pc.X12 Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
