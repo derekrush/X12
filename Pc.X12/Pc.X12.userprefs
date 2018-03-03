@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pc.X12.Framework/Domain/X12DataElement.cs">
+    <Files>
+      <File FileName="Pc.X12.Framework/Domain/IX12DocumentSpec.cs" Line="8" Column="6" />
+      <File FileName="Pc.X12.Framework/Domain/IX12TransactionSetSpec.cs" Line="4" Column="62" />
+      <File FileName="Pc.X12.Framework/Domain/IX12InterchangeEnvelopeSpec.cs" Line="2" Column="1" />
+      <File FileName="Pc.X12.Framework/Domain/X12DocumentSpec.cs" Line="8" Column="17" />
+      <File FileName="Pc.X12.Framework/Domain/IX12FunctionalGroupSpec.cs" Line="4" Column="53" />
+      <File FileName="Pc.X12.Framework/Domain/IX12SegmentSpec.cs" Line="7" Column="60" />
+      <File FileName="Pc.X12.Framework/Domain/IX12Segment.cs" Line="18" Column="1" />
+      <File FileName="Pc.X12.Framework/Services/IParser.cs" Line="10" Column="29" />
+      <File FileName="Pc.X12.Framework/Domain/IUniqueEntity.cs" Line="1" Column="1" />
+      <File FileName="Pc.X12.Framework/Domain/IKeyedEntity.cs" Line="9" Column="43" />
+      <File FileName="Pc.X12.Framework/Domain/IKeyedEnumerable.cs" Line="19" Column="1" />
+      <File FileName="Pc.X12.Framework/Domain/IX12DataElement.cs" Line="4" Column="59" />
+      <File FileName="Pc.X12.Framework/Domain/IX12DataElementSpec.cs" Line="6" Column="50" />
+      <File FileName="Pc.X12.Framework/Domain/X12DataElementType.cs" Line="13" Column="5" />
+      <File FileName="Pc.X12.Framework/Services/IParserFactory.cs" Line="8" Column="16" />
+      <File FileName="Pc.X12.Framework/Domain/IX12InterchangeEnvelope.cs" Line="5" Column="54" />
+      <File FileName="Pc.X12.Framework/Services/X12ParserBase.cs" Line="8" Column="37" />
+      <File FileName="Pc.X12.Framework/Services/IX12SegmentFactory.cs" Line="12" Column="53" />
+      <File FileName="Pc.X12.Framework/Domain/IX12KeyedEnumerable.cs" Line="10" Column="9" />
+      <File FileName="Pc.X12.Framework/Domain/X12KeyedEnumerable.cs" Line="24" Column="72" />
+      <File FileName="Pc.X12.Framework/Domain/IX12FunctionalGroup.cs" Line="6" Column="41" />
+      <File FileName="Pc.X12.Framework/Services/X12TransactionSetParser.cs" Line="22" Column="50" />
+      <File FileName="Pc.X12.Framework/Exceptions/SegmentEnvelopeException.cs" Line="10" Column="104" />
+      <File FileName="Pc.X12.Framework/Domain/X12DataElement.cs" Line="6" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

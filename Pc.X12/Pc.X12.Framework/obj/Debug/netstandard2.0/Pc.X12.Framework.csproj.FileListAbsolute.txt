@@ -1,0 +1,8 @@
+/Users/derekrush/appdev/pc/Pc.X12/Pc.X12.Framework/bin/Debug/netstandard2.0/Pc.X12.Framework.deps.json
+/Users/derekrush/appdev/pc/Pc.X12/Pc.X12.Framework/bin/Debug/netstandard2.0/Pc.X12.Framework.dll
+/Users/derekrush/appdev/pc/Pc.X12/Pc.X12.Framework/bin/Debug/netstandard2.0/Pc.X12.Framework.pdb
+/Users/derekrush/appdev/pc/Pc.X12/Pc.X12.Framework/obj/Debug/netstandard2.0/Pc.X12.Framework.csproj.CoreCompileInputs.cache
+/Users/derekrush/appdev/pc/Pc.X12/Pc.X12.Framework/obj/Debug/netstandard2.0/Pc.X12.Framework.AssemblyInfoInputs.cache
+/Users/derekrush/appdev/pc/Pc.X12/Pc.X12.Framework/obj/Debug/netstandard2.0/Pc.X12.Framework.AssemblyInfo.cs
+/Users/derekrush/appdev/pc/Pc.X12/Pc.X12.Framework/obj/Debug/netstandard2.0/Pc.X12.Framework.dll
+/Users/derekrush/appdev/pc/Pc.X12/Pc.X12.Framework/obj/Debug/netstandard2.0/Pc.X12.Framework.pdb
